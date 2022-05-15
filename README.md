@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Allan
 - 👀 I’m interested in .Net, Vuejs, Ruby and Dart
 - 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on Cypress and Cucumber
+- 💞️ I’m looking to collaborate on Cypress and Capybara
 - 📫 How to reach me david.lima@webjump.com.br
 
 <!---
