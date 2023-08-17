@@ -4,7 +4,7 @@
 </div>
 
 ```js
-import QA from "daslima";
+import QA from "David";
 
 class AboutMe extends QA {
   string name: "David Allan Santos de Lima";
